@@ -1,0 +1,141 @@
+body{
+	background-color: mistyrose;
+}
+
+#banner{
+	width: 100%;
+	position: relative;
+} 
+
+
+a{
+
+	text-decoration:none ;
+	color: blueviolet;
+}
+
+h1  {
+	font-family: 'Sacramento', cursive;
+	text-align: center;
+	font-size: 500%;
+	font-weight: 100%;
+	letter-spacing: 20%;
+	color: pink;
+}
+
+
+h3  {
+	font-family: font-family: 'Nanum Pen Script', cursive;
+	text-align: center;
+	font-size: 200%;
+	font-weight: 70%;
+	letter-spacing:10%;
+	color: violet;
+}
+
+
+h2  {
+	font-family: 'Nanum Pen Script', cursive;
+	text-align: unset;
+	font-size:200%;
+	font-weight:80;
+	letter-spacing:20%;
+	color: 	azure`;
+}
+
+.HK-2020-Winners{
+	height: 200px;
+	width: 200px;
+	border-radius:20px;
+	object-fit: cover;
+	display: flex;
+}
+
+.favurite-events {
+	height: 200px;
+	width: 200px;
+	border-radius:20px;
+	object-fit: cover;
+	display: flex;
+}
+
+
+#enter-button{
+		font-family:font-family: 'Sacramento', cursive;
+}
+
+.sub-titles{
+	font-family: 'Nanum Pen Script', cursive;
+}
+
+#top-banner {
+	display: flex;
+}
+
+#login-elements {
+	position: absolute;
+}
+
+
+#banner{
+	width: 100%;
+	position: relative;
+} 
+
+
+#loginIcon {
+	width: 8%;
+	transform: translate(-20px, 0px);
+}
+
+#menuicon {
+	width: 7%;
+	transform: translate(-20px, -40px);
+}
+
+#top-banner > h1 {
+	position: absolute;
+	transform: translate(28px, 370px) ;
+}
+
+
+#top-banner > h3 {
+	position: absolute;
+	transform: translate(39px, 620px) ;
+
+}
+
+
+#cards {
+	display: flex;
+	justify-content: space-evenly;
+}
+
+
+#cards-2 {
+	display: flex;
+	justify-content: space-evenly;
+}
+
+#cards-3 {
+	display: flex;
+	justify-content: space-evenly;
+}
+
+.skateboarding {
+	border-radius: 70px;
+	height: 200px;
+	border-radius: 20px;
+}
+
+
+p{
+	text-align: center;
+}
+
+
+
+
+
+
+
